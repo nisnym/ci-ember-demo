@@ -3,6 +3,8 @@
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+This is a basic Ember CI demo application. Check out the tutorial: 'First Step into Continuous Integration with Circle CI'.
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
